@@ -2,10 +2,10 @@
 layout: post
 title:  "Deja Vu"
 date:   2015-07-20
-preview: http://placehold.it/300x300
+preview: /resources/deja_vu_thumbnail_300.jpg
 ---
 
-![Picture 1](http://placehold.it/800x600)
+![Picture 1](/resources/deja_vu_preview.jpg)
 
 A psychological horror comic about dreams. Written for the Dark Lady anthology.
 
