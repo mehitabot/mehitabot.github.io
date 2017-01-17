@@ -1,1 +1,1 @@
-# mehitabot.github.io
+This is Mehitabel Glenhaber's comics website.
