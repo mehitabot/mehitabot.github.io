@@ -5,7 +5,7 @@ date:   2015-07-20
 preview: /resources/deja_vu_thumbnail_300.jpg
 ---
 
-![Picture 1](/resources/deja_vu_preview.jpg)
+![Picture 1](/resources/deja_vu_5.jpg)
 
 A psychological horror comic about dreams. Written for the Dark Lady anthology.
 
