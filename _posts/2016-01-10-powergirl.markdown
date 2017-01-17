@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
+title:  "Not Your Power Girl"
+date:   2016-01-10
 preview: http://placehold.it/300x300
 ---
 
 ![Picture 1](http://placehold.it/800x600)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+A cute feminist superhero comic born of my righteous anger for the thousandth time at gender in superhero comics.
+
+[download here](/resources/not_your_power_girl.pdf)
